@@ -1,0 +1,15 @@
+C:\Users\Cengizhan Ç\source\repos\Proje_panel\Proje_panel\bin\Debug\Proje_panel.exe.config
+C:\Users\Cengizhan Ç\source\repos\Proje_panel\Proje_panel\bin\Debug\Proje_panel.exe
+C:\Users\Cengizhan Ç\source\repos\Proje_panel\Proje_panel\bin\Debug\Proje_panel.pdb
+C:\Users\Cengizhan Ç\source\repos\Proje_panel\Proje_panel\bin\Debug\tr\Proje_panel.resources.dll
+C:\Users\Cengizhan Ç\source\repos\Proje_panel\Proje_panel\obj\Debug\Proje_panel.csprojAssemblyReference.cache
+C:\Users\Cengizhan Ç\source\repos\Proje_panel\Proje_panel\obj\Debug\Proje_panel.Properties.Resources.resources
+C:\Users\Cengizhan Ç\source\repos\Proje_panel\Proje_panel\obj\Debug\Proje_panel.csproj.GenerateResource.cache
+C:\Users\Cengizhan Ç\source\repos\Proje_panel\Proje_panel\obj\Debug\Proje_panel.csproj.CoreCompileInputs.cache
+C:\Users\Cengizhan Ç\source\repos\Proje_panel\Proje_panel\obj\Debug\tr\Proje_panel.resources.dll
+C:\Users\Cengizhan Ç\source\repos\Proje_panel\Proje_panel\obj\Debug\Proje_panel.exe
+C:\Users\Cengizhan Ç\source\repos\Proje_panel\Proje_panel\obj\Debug\Proje_panel.pdb
+C:\Users\Cengizhan Ç\source\repos\Proje_panel\Proje_panel\obj\Debug\Proje_panel.GirisPanel.resources
+C:\Users\Cengizhan Ç\source\repos\Proje_panel\Proje_panel\obj\Debug\Proje_panel.GirisPanel.tr.resources
+C:\Users\Cengizhan Ç\source\repos\Proje_panel\Proje_panel\obj\Debug\Proje_panel.SifremiUnuttum.resources
+C:\Users\Cengizhan Ç\source\repos\Proje_panel\Proje_panel\obj\Debug\Proje_panel.KayitOl.resources
